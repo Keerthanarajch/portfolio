@@ -27,6 +27,9 @@ export default function Navbar() {
             <a href="#projects" className="hover:text-cyan-400 transition">
               Projects
             </a>
+            <a href="#achievements" className="hover:text-cyan-400 transition">
+              Achievements
+              </a>
 
             <a href="#contact" className="hover:text-cyan-400 transition">
                 Contact
